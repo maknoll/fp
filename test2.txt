@@ -1,0 +1,5 @@
+Z 1: dies
+Z 3: ein
+Z 4: Beispiel
+
+#: 3 %: 0.75
